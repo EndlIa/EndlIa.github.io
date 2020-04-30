@@ -1,37 +1,22 @@
-## NYN的菓子工坊
+## NYN的菓子工房
 
-You can use the [editor on GitHub](https://github.com/EndlIa/EndlIa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+其实这个页面也没有什么用，毕竟我还没有在github写blog的必要。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 然后
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+你又为什么来到了这里呢？找到了这个荒芜的github账号和她的页面？太奇妙了。
 
 ### 啊这
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EndlIa/EndlIa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+窝的qq是985558180......如果要加我请注明是从github看到的。
 
-### Support or Contact
+### 其他
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我的 [洛谷博客](https://mostima.blog.luogu.org/) （交题解用）
+以及[lofter主页](https://endlia.lofter.com/) （里面全是一些矫情的东西）
+还有申必的[知乎](https://zhihu.com/people/shui-yue-zi-w)（常年被封）
+
+### 自己绍介
+
+一名HB初三学生。最喜欢的唱见是鹿乃，平时喜欢的音乐风格是金属/后核，最喜欢的乐队是DualInsomina二重不眠症单推的vup是菫妃奈，对阿批和V圈（VTB&VC）的粪坑化感到烦躁。虽然不会图形学，但对渲染很有兴趣。
+总而言之，事一个池沼的野蛮学生，，，
